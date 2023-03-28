@@ -1,10 +1,3 @@
-# TopFreeProxies
-[![GitHub Workflow Status](https://github.com/youkai53530100/youkai/actions/workflows/get-proxies.yml/badge.svg)](https://github.com/youkai53530100/youkai/actions/workflows/get-proxies.yml) 
-
-![Watchers](https://img.shields.io/github/watchers/youkai53530100/youkai) ![Stars](https://img.shields.io/github/stars/youkai53530100/youkai) ![Forks](https://img.shields.io/github/forks/youkai53530100/youkai) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=youkai53530100.youkai) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
-
-[仓库介绍](https://github.com/youkai53530100/youkai#仓库介绍) | [使用方法](https://github.com/youkai53530100/youkai#使用方法) | [节点信息](https://github.com/youkai53530100/youkai#节点信息) | [软件推荐](https://github.com/youkai53530100/youkai#客户端选择) | [机场推荐](https://github.com/youkai53530100/youkai#机场推荐) | [仓库声明](https://github.com/youkai53530100/youkai#仓库声明)
-
 ## 仓库介绍
 本仓库自动化功能全部基于 `GitHub Actions` 实现，如有需要可以自行 Fork 实现个性化需求，功能配置在 `./utils/config.ini` 配置文件中。
 
